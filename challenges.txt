@@ -1,0 +1,79 @@
+# Chapter 1: Installation and Setup
+(No coding homework — Ensure compiler and IDE setup is working.)
+
+# Chapter 2: Variables, Data types + Input/Output
+1. Write a program to print your name, age, and address.
+2. Write a program to add two integers entered by the user.
+3. Write a program to find the size of int, float, double, and char data types.
+4. Write a program to swap two numbers entered by the user.
+5. Write a program to calculate the area of a rectangle (length * width).
+
+# Chapter 3: Instructions & Operators
+1. Write a program to demonstrate all arithmetic operators.
+2. Write a program to calculate simple interest and compound interest.
+3. Write a program to swap two numbers without using a temporary variable.
+4. Write a program to evaluate the expression a^2 + b^2.
+5. Write a program to increment and decrement a number.
+
+# Chapter 4: Conditional Statements
+1. Write a program to check whether a number is odd or even.
+2. Write a program to find the largest among three numbers.
+3. Write a program to check if a character is a vowel or consonant.
+4. Write a program to determine if a year is a leap year.
+5. Write a program to find the grade of a student based on marks.
+
+# Chapter 5: Loop Control Statements
+1. Write a program to print numbers from 1 to 100.
+2. Write a program to find the sum of all even numbers between 1 and 100.
+3. Write a program to find the factorial of a number.
+4. Write a program to print the multiplication table of a given number.
+5. Write a program to reverse a given integer.
+
+# Chapter 6: Functions & Recursion
+1. Write a function to add two numbers.
+2. Write a function to calculate factorial using recursion.
+3. Write a function to check if a number is prime.
+4. Write a function to find the nth Fibonacci number using recursion.
+5. Write a function to swap two numbers using call by reference.
+
+# Chapter 7: Pointers
+1. Write a program to demonstrate pointer declaration and initialization.
+2. Write a program to swap two numbers using pointers.
+3. Write a program to find the length of a string using pointers.
+4. Write a program to reverse an array using pointers.
+5. Write a program to add two numbers using pointers.
+
+# Chapter 8: Arrays
+1. Write a program to find the largest element in an array.
+2. Write a program to sort an array in ascending order.
+3. Write a program to find the sum of elements in an array.
+4. Write a program to search an element in an array.
+5. Write a program to merge two arrays into one.
+
+# Chapter 9: Strings
+1. Write a program to find the length of a string without using strlen().
+2. Write a program to copy one string into another without using strcpy().
+3. Write a program to check if a string is a palindrome.
+4. Write a program to count the number of vowels in a string.
+5. Write a program to sort characters of a string alphabetically.
+
+# Chapter 10: Structures
+1. Define a structure called Student with name, roll, and marks. Input and display the details.
+2. Write a program to add two distances (in feet and inches) using structures.
+3. Write a program to store and display the information of 5 books using structures.
+4. Write a program to find the student with the highest marks.
+5. Write a program to demonstrate nested structures.
+
+# Chapter 11: File I/O
+1. Write a program to create a file and write "Hello, World!" into it.
+2. Write a program to read content from a file.
+3. Write a program to copy one file to another.
+4. Write a program to count the number of words in a file.
+5. Write a program to append data to an existing file.
+
+# Chapter 12: Dynamic Memory Allocation
+1. Write a program to allocate memory dynamically for an integer and input a value.
+2. Write a program to dynamically create an array and input elements.
+3. Write a program to find the sum of elements using dynamic memory allocation.
+4. Write a program to reallocate memory to increase the size of an array.
+5. Write a program to free the dynamically allocated memory.
